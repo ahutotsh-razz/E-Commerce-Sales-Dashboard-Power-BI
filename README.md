@@ -7,7 +7,7 @@ The dashboard provides a clear and intuitive view of performance across **states
 ---
 
 ## 📷 Project Screenshot
-![E-Commerce Sales Dashboard](./screenshots/E-commerce_Sales_Dashboard.png)
+![E-Commerce Sales Dashboard](https://github.com/ahutotsh-razz/E-Commerce-Sales-Dashboard-Power-BI/blob/main/Sales%20Dashboard.JPG)
 
 > 📌 *The screenshot shows KPI cards, filters, and multiple analytical visuals for sales and profit analysis.*
 
@@ -15,10 +15,10 @@ The dashboard provides a clear and intuitive view of performance across **states
 
 ## 🔗 Project Links
 - 📊 **Power BI Dashboard (.pbix):**  
-  https://github.com/<your-username>/ecommerce-sales-dashboard/blob/main/E-commerce%20sales%20Dashboard.pbix
-
+  https://github.com/ahutotsh-razz/E-Commerce-Sales-Dashboard-Power-BI/blob/main/E-commerce%20sales%20Dashboard.pbix
+  
 - 📄 **Project Instructions (PDF):**  
-  https://github.com/<your-username>/ecommerce-sales-dashboard/blob/main/Instructions.pdf
+  https://github.com/ahutotsh-razz/E-Commerce-Sales-Dashboard-Power-BI/blob/main/Instructions.pdf
 
 - 🗂 **GitHub Repository:**  
   https://github.com/<your-username>/ecommerce-sales-dashboard
